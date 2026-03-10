@@ -7,10 +7,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <p align="center">
-  💻 Software Engineering Student <br>
-  📍 Salvador, Brazil <br>
-  🚀 Learning Python, Git and UI/UX
-</p>
+
+
 
 # Hi, I'm Nicolas 👋
 
