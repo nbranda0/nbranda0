@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas 👋
 
-🎓 Software Engineering student at Unifacs, passionate about learning and building things to help people.
+🎓 Software Engineering student at Unifacs, passionate about learning and building useful appsto help people.
 
 ## Currently learning
 - Python
