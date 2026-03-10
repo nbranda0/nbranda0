@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nicolas 👋
 
+🎓 Software Engineering student at Unifacs, passionate about learning and building things to help people.
+
+## Currently learning
+- Python
+- Git & GitHub
+- UI/UX fundamentals
+
+## Interests
+- Technology
+- Product design
+- Building useful apps
+
+## Goals
+- Improve my programming skills
+- Work on real projects
+- Contribute to open source
 <!--
 **nbranda0/nbranda0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
